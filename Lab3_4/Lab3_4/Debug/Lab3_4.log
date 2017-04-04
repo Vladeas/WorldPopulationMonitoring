@@ -1,0 +1,105 @@
+﻿  UndoRedo.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\undoredo.c(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\undoredo.c(128): warning C4133: 'return': incompatible types - from 'Operation *' to 'OperationRedo *'
+  UI.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(88): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(226): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(249): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(252): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\ui.c(254): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: see declaration of 'scanf'
+  Test.c
+  Repository.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\repository.c(60): warning C4101: 'i': unreferenced local variable
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\repository.c(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\repository.c(95): warning C4133: 'return': incompatible types - from 'CountryRepo *' to 'Country *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\repository.c(117): warning C4133: 'return': incompatible types - from 'CountryRepo *' to 'Country *'
+  Main.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\main.c(15): warning C4013: 'TestCountry' undefined; assuming extern returning int
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\main.c(35): warning C4013: 'CreateUI' undefined; assuming extern returning int
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\main.c(37): warning C4013: 'SUI' undefined; assuming extern returning int
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\main.c(38): warning C4013: 'DestroyUI' undefined; assuming extern returning int
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\main.c(35): warning C4047: 'initializing': 'UI *' differs in levels of indirection from 'int'
+  DynamicArray.c
+  Country.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\country.c(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\country.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\country.c(43): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Controller.c
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(181): warning C4133: 'return': incompatible types - from 'Country *' to 'CountryRepo *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(206): warning C4133: 'return': incompatible types - from 'Country *' to 'CountryRepo *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(269): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(283): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(284): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(294): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(295): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(313): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(314): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(333): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(357): warning C4133: 'function': incompatible types - from 'OperationRedo *' to 'OperationStack *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(361): warning C4133: 'initializing': incompatible types - from 'OperationRedo *' to 'Operation *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(367): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(388): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(389): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(400): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(401): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(408): warning C4133: 'initializing': incompatible types - from 'OperationRedo *' to 'Operation *'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(412): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\magi\documents\visual studio 2017\projects\lab3_4\lab3_4\controller.c(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+  Generating Code...
+  Lab3_4.vcxproj -> C:\Users\Magi\documents\visual studio 2017\Projects\Lab3_4\Debug\Lab3_4.exe
+  Lab3_4.vcxproj -> C:\Users\Magi\documents\visual studio 2017\Projects\Lab3_4\Debug\Lab3_4.pdb (Partial PDB)
